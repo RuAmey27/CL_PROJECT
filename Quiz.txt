@@ -1,0 +1,299 @@
+Who is the father of C language?
+
+A) Steve Jobs
+B) James Gosling
+C) Dennis Ritchie
+D) Rasmus Lerdorf
+
+C) Dennis Ritchie
+Category : Basic
+
+Which of the following is not a valid C variable name?
+
+A) int number;
+B) float rate;
+C) int variable_count;
+D) int $main;
+
+D) int $main;
+Category : variable
+
+All keywords in C are in ____________
+
+A) LowerCase letters
+B) UpperCase letters
+C) CamelCase letters
+D) None of the mentioned
+
+A) LowerCase letters
+Category : variables
+
+Which of the following is true for variable names in C?
+
+A) They can contain alphanumeric characters as well as special characters
+B) It is not an error to declare a variable to be one of the keywords(like goto, static)
+C) Variable names cannot start with a digit
+D) Variable can be of any length
+
+C) Variable names cannot start with a digit
+Category : variable
+
+Which is valid C expression?
+
+A) int my_num = 100,000;
+B) int my_num = 100000;
+C) int my num = 1000;
+D) int $my_num = 10000;
+
+B) int my_num = 100000;
+Category : variable
+
+Which of the following cannot be a variable name in C?
+
+A) volatile
+B) true
+C) friend
+D) export
+
+A) volatile
+Category : keywords
+
+What is short int in C programming?
+
+A) The basic data type of C
+B) Qualifier
+C) Short is the qualifier and int is the basic data type
+D) All of the mentioned
+
+C) Short is the qualifier and int is the basic data type
+Category : data type 
+
+Which of the following declaration is not supported by C language?
+
+A) String str;
+B) char *str;
+C) float str = 3e2;
+D) Both String str; & float str = 3e2;
+
+A) String str;
+Category : declaration
+
+Which keyword is used to prevent any changes in the variable within a C program?
+
+A) immutable
+B) mutable
+C) const
+D) volatile
+
+C) const 
+Category : keyword
+
+What is the result of logical or relational expression in C?
+
+A) True or False
+B) 0 or 1
+C) 0 if an expression is false and any positive number if an expression is true
+D) None of the mentioned
+
+C) 0 if an expression is false and any positive number if an expression is true
+Category : LOGIC
+
+Which of the following comment is correct when a macro definition includes arguments?
+
+A)The opening parenthesis should immediately follow the macro name.
+B)There should be at least one blank between the macro name and the opening parenthesis.
+C)There should be only one blank between the macro name and the opening parenthesis.
+D)All the above comments are correct.
+
+A)The opening parenthesis should immediately follow the macro name.
+Category : MACROS
+
+What is the output of this statement "printf("%d", (a++))"?
+
+A)The value of (a + 1)
+B)The current value of a
+C)Error message
+D)Garbage
+
+B)The current value of a
+Category : Arithematic
+
+In the C language, the constant is defined _______.
+
+A)Before main
+B)After main
+C)Anywhere, but starting on a new line.
+D)None of the these.
+
+C)Anywhere, but starting on a new line.
+Category : CONSTANTS
+
+Which one of the following is a loop construct that will always be executed once?
+
+A)for
+B)while
+C)switch
+D)do while
+
+D)do while
+Category : LOOPS
+
+Directives are translated by the
+
+A)Pre-processor
+B)Compiler
+C)Linker
+D)Editor
+
+A)Pre-processor
+Category : HEADER FILES
+
+How many bytes does "int = D" use?
+
+A)0
+B)1
+C)2 or 4
+D)10
+
+C)2 or 4 
+Catgory : BASIC
+
+Which of the following will copy the null-terminated string that is in array src into array dest?
+
+A)dest = src;
+B)dest == src;
+C)strcpy(dest, src);
+D)strcpy(src, dest);
+
+C)strcpy(dest, src);
+Catgory : STRINGS
+
+In the statement "COUT << "javatpoint" << end1;", end1 is a ___.
+
+A)Extractor
+B)Inserter
+C)Manipulator
+D)Terminator
+
+C)Manipulator
+Catgory : FORMAT
+
+How many instances of a class can be declared?
+
+A)1
+B)10
+C)As per required
+D)None of the these
+
+C)As per required
+Category : CONSTRUCTOR
+
+What is the maximum number of characters that can be held in the string variable char address line [40]?
+
+A)38
+B)39
+C)40
+D)41
+
+B)39
+Category : STRINGS
+
+Which of the following statement is not true?
+
+A)A pointer to an int and a pointer to a double are of the same size.
+B)A pointer must point to a data item on the heap (free store).
+C)A pointer can be reassigned to point to another data item.
+D)A pointer can point to an array.
+ 
+B)A pointer must point to a data item on the heap (free store).
+Category : POINTERS
+
+Which of the following SLT template class is a container adaptor class?
+
+A)Stack
+B)List
+C)Deque
+D)Vector
+
+A)Stack 
+Category : DS
+
+What kinds of iterators can be used with vectors?
+
+A)Forward iterator
+B)Bi-directional iterator
+C)Random access iterator
+D)All of the above
+
+D)All of the above
+Category : BASIC
+
+Let p1 and p2 be integer pointers. Which one is a syntactically wrong statement?
+
+A)p1 = p1 + p2;
+B)p1 = p1 - 9;
+C)p2 = p2 + 9;
+D)cout << p1 - p2;
+
+A)p1 = p1 + p2;
+Category : POINTERS
+
+If addition had higher precedence than multiplication,then the value of the expression (1+2*3+4*5) would be which of the following?
+
+A)27
+B)47
+C)69
+D)105
+
+D)105
+Category : precedence
+
+Array is a _________ data structure.
+
+A)Non-linear
+B)Primary
+C)Linear
+D)Data type
+
+C)Linear
+Category : DS
+
+Which of the following statement is correct about the array?
+
+A)In the array, users can only allocate the memory at the run time.
+B)In the array, users can only allocate the memory at the compile time.
+C)The array is a primitive and non-linear data structure that only stores a similar data type.
+D)All of the these
+
+B)In the array, users can only allocate the memory at the compile time. 
+Category : DS
+
+Which of the following statement is correct about the C language?
+
+A)The C language is a binary language with some extra features.
+B)The C language is a high-level language with some low features.
+C)The C language is a mid-level language with some high features.
+D)The C language is a low-level language.
+
+C)The C language is a mid-level language with some high features.
+Category : General 
+
+A global variable is declared __________.
+
+A)Outside of the function
+B)Inside of the function
+C)With the function
+D)Anywhere in the program
+
+A)Outside of the function 
+Category : General 
+
+Who defines the user-defined function?
+
+A)Compiler
+B)Computer
+C)Compiler library
+D)Users
+
+D)Users
+Category : General 

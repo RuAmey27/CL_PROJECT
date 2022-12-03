@@ -1,0 +1,111 @@
+Q1) All keywords in C are in ____________
+
+Category : variables
+ 
+ 
+You entered correct answer : A) LowerCase letters
+  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q2) Which is valid C expression?
+
+Category : variable
+ 
+ You entered     : D) int $my_num = 10000;
+ 
+ Correct answer  : B) int my_num = 100000;
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q3) Which keyword is used to prevent any changes in the variable within a C program?
+
+Category : keyword
+ 
+ 
+You entered correct answer : C) const
+  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q4) What is the result of logical or relational expression in C?
+
+Category : LOGIC
+ 
+ 
+You entered correct answer : C) 0 if an expression is false  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q5) Which one of the following is a loop construct that will always be executed once?
+
+Category : LOOPS
+ 
+ 
+You entered correct answer : D)do while
+  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q6) Which of the following will copy the null-terminated string that is in array src into array dest?
+
+Catgory : STRINGS
+ 
+ You entered     : D)strcpy(src, dest);
+ 
+ Correct answer  : C)strcpy(dest, src);
+ 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q7) Which of the following statement is not true?
+
+Category : POINTERS
+ 
+ 
+You entered correct answer : B)A pointer must point to a da‚wÌÿa  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q8) Which of the following SLT template class is a container adaptor class?
+
+Category : DS
+ 
+ 
+You entered correct answer : A)Stack
+  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q9) If addition had higher precedence than multiplication,then the value of the expression (1+2*3+4*5) would be which of the following?
+
+Category : precedence
+ 
+ 
+You entered correct answer : D)105
+  
+  
+ You are awarded 4 marks for this correct answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+Q10) Which of the following statement is correct about the C language?
+
+Category : General 
+ 
+ You entered     : B)The C language is a hi 
+ Correct answer  : C)The C language is a mi 
+ 
+ You are awarded 0 marks for this wrong answer 
+  -----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+ 
+ You got total 28 out of 40 
